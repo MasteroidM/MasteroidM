@@ -9,6 +9,6 @@ I'm a Computer Engineer with a passion for software development and cybersecurit
 * [LinkedIn](https://www.linkedin.com/in/melwin-lewis-6a91a4199/)
 * [Email](mailto:lewismelwin@gmail.com)
 * [Website](https://melwinlewis.netlify.app) 
-* [Resume](https://drive.google.com/file/d/1PLMaGS2HjLmvoAiASLucRf6qeb_SYmWC/view?usp=sharing)
+* [Resume](https://tinyurl.com/melwin-lewis-resume)
 
 
